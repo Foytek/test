@@ -1,0 +1,17 @@
+commit 9ad8413d83dc9700ab47be1c3096953a2671ed61 (HEAD -> master)
+Author: Wojtek <w.charasinski@yahoo.com>
+Date:   Sat Jan 18 16:43:00 2025 +0100
+
+    Usuniety plik2
+
+commit ae235b5d700033c18ffe95b3b97922ef7984ceeb
+Author: Wojtek <w.charasinski@yahoo.com>
+Date:   Sat Jan 18 16:38:38 2025 +0100
+
+    Nowy folder + plik3
+
+commit 4fc129cce8b35af4ed05970c133ba8ea715bd6b7
+Author: Wojtek <w.charasinski@yahoo.com>
+Date:   Sat Jan 18 16:28:33 2025 +0100
+
+    Commit dwóch plików
